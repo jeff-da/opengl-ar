@@ -1,0 +1,20 @@
+{
+  "name": "hj-ar-new",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^29.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
+    "@mapbox/tilebelt": "1.0.1",
+    "expo-asset-utils": "0.0.4-alpha.2",
+    "expo-graphics": "1.0.0-alpha.1",
+    "expo-three": "3.0.0-alpha.1",
+    "get-pixels": "3.3.2",
+    "prop-types": "15.6.2",
+    "react-native-elements": "0.18.5"
+  }
+}
